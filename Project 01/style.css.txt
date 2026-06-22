@@ -1,0 +1,23 @@
+/* Background color from palette */
+body {
+    background-color: #f4f6f2;
+    font-family: Arial, sans-serif;
+    color: #829aa9; /* paragraph text color */
+    margin: 0;
+    padding: 20px;
+}
+
+/* Heading color from palette */
+h1, h2, h3 {
+    color: #35678a;
+}
+
+/* Optional: links using another palette color */
+a {
+    color: #35678a;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c5c6c0;
+}
